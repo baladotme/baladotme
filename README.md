@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Bala, a Project Manager associated with ACT Government, Canberra and interested in all things Next.js, React, Typescript, Supabase, Figma and indie development!
+
+- 🔭 I’m currently working on NameMoat, building a business site for domain related business.
+- 🌱 I’m currently learning Figma.  
+- 👯 I’m looking to collaborate on building web apps! Ideas welcome :)
+  
 <!--
 **baladotme/baladotme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
